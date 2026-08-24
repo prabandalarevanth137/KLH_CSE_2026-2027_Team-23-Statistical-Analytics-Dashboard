@@ -4,7 +4,7 @@
 
 Sec No- 1	Team No- 23	Project Title- Statistical Analytics Dashboard Using Parallel Algorithms
 
-1.	Abstract
+1.	Abstract: 
             The Statistical Analytics Dashboard is a software application designed to efficiently process and analyze large numerical datasets using parallel computing techniques. The system computes important descriptive statistics such as mean, variance, minimum, maximum, cumulative sums, and frequency distributions. To improve computational efficiency, the project implements Parallel Prefix Sum and Parallel Reduction algorithms and compares their performance with sequential approaches. The dashboard presents the computed statistical results along with graphical reports that clearly visualize execution time and performance differences between sequential and parallel processing. The main objective of this project is to demonstrate how parallel algorithms can accelerate the analysis of large-scale numerical data while maintaining accurate statistical results. Overall, the project provides an interactive and easy-to-understand platform for statistical analysis and performance evaluation, highlighting the practical advantages of parallel processing in data-intensive applications.
 
 
